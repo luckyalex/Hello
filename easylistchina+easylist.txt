@@ -3,7 +3,7 @@
 ! Version: 201902221211
 ! Title: EasyList China+EasyList
 ! Last modified: 22 Feb 2019 12:11 UTC
-! Expires: 15 days (update frequency)
+! Expires: 9 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 !
 ! EasyList China and EasyList combination subscription
